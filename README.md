@@ -1,4 +1,5 @@
-![Comparison of Baselines with Proposed Model changes](https://user-images.githubusercontent.com/99614234/190555982-bc6789fd-ac3d-45fe-ad33-980a6f1b0cb3.PNG)
+![Compare](https://user-images.githubusercontent.com/99614234/190556714-d7126ba8-8acb-41f5-a81f-a03db1f33539.PNG)
+
 
 # LDAM-DRW-and-RCE
 Robust CNN model using LDAM DRW and RCE Loss functions
