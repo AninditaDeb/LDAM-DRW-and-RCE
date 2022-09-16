@@ -1,3 +1,4 @@
+![repository-open-graph-template](https://user-images.githubusercontent.com/99614234/190555911-adbfb182-7ef8-4fce-b62e-f4c2e373c88e.png)
 [Visualizations.pdf](https://github.com/AninditaDeb/-LDAM-DRW-and-RCE/files/9580597/Visualizations.pdf)
 # LDAM-DRW-and-RCE
 Robust CNN model using LDAM DRW and RCE Loss functions
