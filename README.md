@@ -1,4 +1,5 @@
-![Compare](https://user-images.githubusercontent.com/99614234/190556714-d7126ba8-8acb-41f5-a81f-a03db1f33539.PNG)
+![Compare](https://user-images.githubusercontent.com/99614234/190557130-67cbb73e-1d42-4f7b-894b-dc2176cad217.PNG)
+
 
 
 # LDAM-DRW-and-RCE
